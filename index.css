@@ -1,5 +1,5 @@
 body {
-	font-family: cursive;background-color: #000000; color: ghostwhite	
+	;background-color: #000000; color: ghostwhite	
 }
 h1 {
 		;text-align: center;	;font-size: 300% 
@@ -15,7 +15,7 @@ li {
 	margin-right: 30px; margin-left: 30px
 }
 a {
-	text-decoration: none; color: ghostwhite
+	text-decoration: none; color: ghostwhite;
 }
 p {
 	font-size: 200%
@@ -24,4 +24,6 @@ p {
 =======
 }
 >>>>>>> 8096b87b3eef382fbd9cd4d8fade01789aed3e31
+
+}
 
