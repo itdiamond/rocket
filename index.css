@@ -1,5 +1,5 @@
 body {
-	;background-color: #000000; color: ghostwhite	
+	font-family: sans-serif;background-color: #000000; color: ghostwhite	
 }
 h1 {
 		;text-align: center;	;font-size: 300% 
@@ -19,11 +19,5 @@ a {
 }
 p {
 	font-size: 200%
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> 8096b87b3eef382fbd9cd4d8fade01789aed3e31
 
-}
 
