@@ -6,7 +6,7 @@ h1 {
 }
 
 ul {
-	font-size: 250%; background-color: #FF4500	;border-radius: 70px
+	font-size: 200%; background-color: #FF4500	;border-radius: 70px
 }
 .nav {
 	display: flex;justify-content: center; list-style-type: none;
