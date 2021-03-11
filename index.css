@@ -20,7 +20,7 @@ a {
 p {
 	font-size: 200%
 }
-a.insane {
+.insane {
 	font-size: 250%; background-color: #FF4500	;border-radius: 10px
 
 }
